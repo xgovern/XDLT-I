@@ -1,0 +1,20 @@
+{
+	"name": "xdit",
+	"description": "XDLT Javascript Library",
+	"version": "0.0.0",
+	"main": "XDLT.js",
+	"author":"Joe K. Kim",
+	"license":"Proprietary",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/xgovern/XDLT"
+	},
+	"keywords":["XDLT","AXSL","Atom","Axiom","Axiom IDE"],
+	"bugs": {
+		"url": "https://github.com/xgovern/XDLT/issues"
+	},
+	"homepage": "https://github.com/xgovern/XDLT",
+	"dependencies": {
+		
+	}
+}
